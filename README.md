@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Glowrare1
 - 👀 I’m interested in gaining basic and transferable knowledge and skills in the IT sector
-- 🌱 I’m currently learning project management and about to commence learning web development...
-- 💞️ I’m looking to collaborate on PM and web development 
+- 🌱 I’m currently studying to become a project manager and full stack web developer...
+- 💞️ I’m looking to collaborate on Project management and web development 
 - 📫 How to reach me khorleyglow4@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love to create beautiful things
