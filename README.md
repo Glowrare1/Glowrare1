@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Glowrare1
 - 👀 I’m interested in gaining basic and transferable knowledge and skills in the IT sector
-- 🌱 I’m become a hybrid project manager/business analysis. Recently completed a 12 weeks intensive bootcamp of full stack web development
+- 🌱 I’m a hybrid project manager/business analysis. Recently completed a 12 weeks intensive bootcamp of full stack web development
 - 💞️ I’m looking to collaborate on Project management and web development 
 - 📫 How to reach me khorleyglow4@gmail.com
 - 😄 Pronouns: She/her
